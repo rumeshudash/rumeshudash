@@ -30,9 +30,6 @@
 ### 🔥 &nbsp;GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rumeshudash&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/rumeshudash)
 
-### ⚙️ &nbsp;GitHub Analytics
-[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=rumeshudash&show_icons=true&hide_border=true&theme=dracula)](https://github.com/rumeshudash)
-
 <!--
 **rumeshudash/rumeshudash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
