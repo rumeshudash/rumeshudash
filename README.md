@@ -27,9 +27,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 
-### 🔥 &nbsp;GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rumeshudash&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/rumeshudash)
-
 <!--
 **rumeshudash/rumeshudash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
